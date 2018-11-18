@@ -8,6 +8,7 @@ Attempt to determine if a GPS coordinate is in the water or on land using point-
   - [Demo](#demo)
     - [Execution via RStudio Server](#execution-via-rstudio-server)
     - [Source Code](#source-code)
+  - [Tools used](#tools-used)
   - [References and Further Reading](#references-and-further-reading)
 
 ## Initial Exploration
@@ -36,6 +37,9 @@ Attempt to determine if a GPS coordinate is in the water or on land using point-
 - [Driver](will_it_sink_driver.R)
 - [will_it_sink function code](will_it_sink.R)
 
+## Tools used
+- [R, a programming language for statistical computing and graphics](https://www.r-project.org/)
+- [RStudio (Server), an IDE for R](https://www.rstudio.com/)
 
 ## References and Further Reading
 - [GIS Stackexchange discussion on the Separation of Land - Body waters](http://gis.stackexchange.com/questions/21555/separation-of-land-body-waters)
