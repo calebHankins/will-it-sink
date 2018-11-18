@@ -43,4 +43,3 @@ Attempt to determine if a GPS coordinate is in the water or on land using point-
 - [CRAN spatial ref page](http://cran.r-project.org/web/views/Spatial.html)
 - [point-in-polygon example from the National Center for Ecological Analysis and Synthesis](http://www.nceas.ucsb.edu/scicomp/usecases/point-in-polygon)
 - [OpenStreetMap Shapefiles wiki](https://wiki.openstreetmap.org/wiki/Shapefiles)
-
