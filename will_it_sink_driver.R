@@ -6,7 +6,7 @@ will_it_sink_driver <- function(indirectory="./data/aus_gbr/", outdirectory="./d
   for (file in file_list) {
     #Pull together filepath
     filepath <- paste(indirectory,"/",file,sep="")
-    outfilepath <- paste(outdirectory,"/",file,".out",sep="")
+    outfilepath <- paste(outdirectory,"/","wis_",file,sep="")
     
     #Verify the file exists before we continue
     if(file.exists(filepath)) {
